@@ -14,7 +14,6 @@ namespace imapLibrary
 {
     public class mySqlConnector
     {
-
         //private OleDbConnection con;
         private MySql.Data.MySqlClient.MySqlConnection con;
 
