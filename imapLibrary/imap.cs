@@ -16,7 +16,6 @@ using System.IO;
 
 namespace imapLibrary
 {
-
     public class imap
     {
         private static string serverPfad = @"\\svrintweb.marketmind.at\wwwroot$\elws.marketmind.at\broman";
